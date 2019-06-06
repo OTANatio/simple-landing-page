@@ -1,0 +1,110 @@
+body{
+    /*padding: 0px;*/
+    font-family: 'Poppins', 'Open sans', 'Roboto', 'Lato', sans-serif;
+    font-style: normal;
+}
+
+
+.Header{
+    background-image: url(Taiwan.jpg);
+    height:70vh;
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+.Header h1{
+    color: white;
+    text-align:center;
+    font-size: 50px;
+}
+.Header h5{
+     color:white;
+     text-align: center;
+     margin:-30px;
+ }
+.Div2 {
+    text-align: center;
+    height:20vh;
+    font-size:small;
+    position: relative
+}
+.Div2 h3{
+    position: relative;
+    top:10px;
+}
+.Div2 h2{
+    top:10px;
+    font-size:x-small;
+    position: relative
+}
+
+.Div3 {
+    Height:25vh;
+    font-size:small;
+}
+
+.Div3 h2{
+    font-size:small;
+}
+
+
+.Tai-1 {
+    width:50%;
+    height:25vh;
+    background-color: rgb(248, 243, 236);
+    float:left;
+}
+.Tai-1 h3, h2{
+    position: relative;
+    top:25px;
+    left: 20px;
+}
+
+.Tai-2 .Image{ 
+    width: 50%;
+    height: 25vh;
+    float:right;
+    background-size: cover, contain;
+}
+
+.Div4{
+    background-color:rgb(26, 24, 24);
+    height:25vh;
+}
+
+.wan-1{
+    width:50%;
+    height:20vh;
+    font-size:small;
+    float:left;
+    color:white;
+    text-align: justify;
+    left:5px;
+    position: relative;
+    left:350px;
+    top:25px;
+}
+
+
+
+.wan-2{
+    width: 50%;
+    height: 20vh;
+    float:right;
+    color:white;
+    text-align: justify;
+    font-size:small;
+    position: relative;
+    top:25px;
+    left:100px;
+}
+
+.Footer{
+    text-align: center;
+    background-color:rgb(46, 44, 44);
+    margin: 0px;
+    height:7vh;
+    padding-top:3px;
+    color:white;
+}
