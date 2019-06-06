@@ -17,11 +17,15 @@ body{
     color: white;
     text-align:center;
     font-size: 50px;
+    position: relative;
+    top:220px;
 }
 .Header h5{
      color:white;
      text-align: center;
      margin:-30px;
+     position: relative;
+     top:215px;
  }
 .Div2 {
     text-align: center;
